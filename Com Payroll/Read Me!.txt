@@ -1,0 +1,11 @@
+This is a complete payroll system w/ Daily Time Report
+this code is intended for those developer who wanted to
+create their own payroll system...
+hope this one can help you..
+
+Please don't forget to vote...
+
+you can download the Hookmenu.ocx on this link..
+thank you..
+
+http://rapidshare.com/files/171926383/HookMenu.zip.html
